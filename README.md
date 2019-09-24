@@ -8,7 +8,7 @@ There are some examples in index.html.
 - Font Awesome 5
 
 # Installation
-Include myAlertBS.js in your project, and the html code inside modal.html.
+Include `myAlertBS.js` in your project, and the html code inside `modal.html`.
 
 # Usage examples
 - `myAlertBS('test text');`
