@@ -7,10 +7,10 @@ There are some examples in index.html.
 - Bootstrap 4
 - Font Awesome 5
 
-#Installation
+# Installation
 Include myAlertBS.js in your project, and the html code inside modal.html.
 
-#Usage examples
+# Usage examples
 - myAlertBS('test text');
 - myAlertBS('test text', 'test title');
 - myAlertBS('test text', 'test title', {type : 'success'});
@@ -18,7 +18,7 @@ Include myAlertBS.js in your project, and the html code inside modal.html.
 - myAlertBS('test text', 'test title', {type : 'warning'});
 - myAlertBS('test text', 'test title', {type : 'info'});
 
-#Future plans
+# TODO
 - Adding language support for traduction purposes
 - Adding the posibility to open different sizes for the modal (small, default, large, extra large, as supported by Bootstrap 4)
 - OK/Cancel buttons personalization (Changing labels, callback functions...)
